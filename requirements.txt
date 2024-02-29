@@ -1,0 +1,6 @@
+
+requests
+optuna
+transformers
+datasets
+streamlit
